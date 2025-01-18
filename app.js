@@ -16,7 +16,7 @@ function novoJogo() {
   tentativas = 1;
 
   inserirTexto("h1", "Jogo do número secreto");
-  inserirTexto("p", "informe seu número de 1 a 10");
+  inserirTexto("p", `informe seu número de 1 a ${limiteNumero}`);
   limparCampo();
   document.getElementById("reiniciar").setAttribute("disabled", true);
 }
