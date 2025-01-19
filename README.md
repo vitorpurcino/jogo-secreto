@@ -9,3 +9,8 @@
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
+<h2>Time</h2>
+<div>
+  <img src="https://avatars.githubusercontent.com/u/7075880?v=4" width="100" height="100">
+  <h4>Vitor Purcino</h4>
+</div>
